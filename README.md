@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with GitHub
 - 💬 Ask me about GitHub
-- 📫 How to reach me: 1 issue or pull
+- 📫 How to reach me: 1 in the whole
 - 😄 Pronouns: Git
 - ⚡ Fun fact: GitHub by the owner.
